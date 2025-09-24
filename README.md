@@ -27,7 +27,8 @@ END
 ```
 
 ## OUTPUT
-<img width="1918" height="1194" alt="image" src="https://github.com/user-attachments/assets/d26a868b-0884-493a-bb02-4f503d68a2f4" />
+![WhatsApp Image 2025-09-24 at 08 54 01_9c350e42](https://github.com/user-attachments/assets/9f671a98-1a63-46af-9a94-4221fab73adb)
+
 
 
 ## RESULT
